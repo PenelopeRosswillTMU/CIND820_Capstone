@@ -13,6 +13,8 @@
   - EDA HTML Reports: the reports generated based on the complete dataset "EDA Report.HTML", and then the 4 blocks of data created to make the multiple selection id duplication manageable "EDA Report_block1-5.HTML"
   - the original dataset from the survey and the 4 separated blocks, in csv format.
   - ipynb files for the EDA reports and code for the feature selection on block 1 (chi squared and mutual information)
+  - results of the feature selection process
+  - table of the accuracy scores for each variable that would potentially be used as output variables from block 1
 
 ## Research Questions
 -	What intersections of identity impact LGBTQ+ Canadians need and use of social services? 
