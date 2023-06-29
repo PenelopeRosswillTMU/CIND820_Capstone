@@ -24,8 +24,8 @@
 -	Does income and education affect the use of social services?
 
 ## Features Decided on 
-  Feature Selection was based on the Chi Squared Test done on each block of data (4 blocks plus 1 block for participant identity information). The top 5 scores were counted for each block. Features 1-5 listed below were from the identification block, Feature 6 was from block 1 (Access to City of Montreal services), Features 7-9 were from block 2 (Environmental and Quality of Life), and Features 10 and 11 were from block 3 (Security in a Public Space). No features were selected from block 5.
-  Dependant Variable: 'Do you identify as a trans person, or have you had a trans background at some point in your life?'
+  Feature Selection was based on the Chi Squared Test done on each block of data (4 blocks plus 1 block for participant identity information). The top 5 scores were counted for each block. Features 1-5 listed below were from the identification block, Feature 6 was from block 1 (Access to City of Montreal services), Features 7-9 were from block 2 (Environmental and Quality of Life), and Features 10 and 11 were from block 3 (Security in a Public Space). No features were selected from block 5. <br> <br>
+  Dependant Variable: 'Do you identify as a trans person, or have you had a trans background at some point in your life?' <br>
   Features:
   1. 'How many years have you lived in Montreal?'
   2. 'What age group are you in?'
